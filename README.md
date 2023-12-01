@@ -1,6 +1,6 @@
-# demo
+# Mini Project
 
-A new Flutter project.
+Front End Development for App Based Mood Detection Journal.
 
 ## Getting Started
 
